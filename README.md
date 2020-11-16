@@ -34,4 +34,4 @@ Undergraduate first-year, experiments and assignments of Foundamental Programmin
 6. 退卡。
 
 ### C++ Exercise Docx
-C++ homework, OJ(PTA, Zhejiang University) exercise.
+C/C++ OJ(PTA, Zhejiang University) exercise, from Internet.
