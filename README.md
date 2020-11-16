@@ -1,4 +1,4 @@
-# Cpp-Programming-Exercise
+# CQU Cpp Programming Assignments
 
 Very basic.
 Undergraduate first-year, experiments and assignments of Foundamental Programming Course(C++), CQU.
