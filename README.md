@@ -33,3 +33,5 @@ Undergraduate first-year, experiments and assignments of Foundamental Programmin
 5. 修改密码：密码为6位数字，新密码需要两次输入确认；
 6. 退卡。
 
+### C++ Exercise Docx
+C++ homework, OJ(PTA, Zhejiang University) exercise.
